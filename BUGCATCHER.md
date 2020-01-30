@@ -1,11 +1,11 @@
-<img src="https://staging.tiger.sohotokenlabs.com/img/ftl-bugcatcher.png" alt="Faster Than Light BugCatcher" title="Faster Than Light BugCatcher" width="300" />
+<img src="https://bugcatcher.fasterthanlight.dev/img/logo.png" alt="Faster Than Light BugCatcher" title="Faster Than Light BugCatcher" width="300" />
 
-# BugCatcher Test Results
+# Code Quality Certification
 
 
 **Project Name**: `faster-than-light_bandit-random_module_master`
 
-**Test ID**: `uEF3nAhvVjH3pLY9nVLdcFH0yVoQdNBWg0SkBEeC`
+**Test ID**: `SDbsJuUUjKSjN5zpOcj32VJX67q5l3MG4xBrKX7p`
 
 **GitHub Tree SHA**: `ddcbfa156204828a5ac164aa2b344b4d218cb04d`
 
@@ -30,4 +30,4 @@ bandit-random_module.py
 	- bandit-random_module.py (lines 9 - 9) 
 ##
 
-<img src="https://staging.tiger.sohotokenlabs.com/img/bugcatcher-approved.png" alt="Faster Than Light BugCatcher" title="Faster Than Light BugCatcher" width="300" />
+<img src="https://bugcatcher.fasterthanlight.dev/img/badge.png" alt="Faster Than Light BugCatcher" title="Faster Than Light BugCatcher" width="300" />
